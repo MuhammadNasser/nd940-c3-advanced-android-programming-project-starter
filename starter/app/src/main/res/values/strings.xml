@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ND940C3-Project</string>
+    <string name="app_description">Download files from Internet</string>
+
+
+    <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="glide_option_text">https://github.com/bumptech/glide</string>
+    <string name="udacity_option_text">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter</string>
+    <string name="retrofit_option_text">https://github.com/square/retrofit</string>
+    <string name="file_name">File name: </string>
+    <string name="go_back_to_the_download_screen">Go back to the download screen</string>
+    <string name="status">Status</string>
+
+</resources>
